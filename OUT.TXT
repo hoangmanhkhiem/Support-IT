@@ -1,15 +1,3 @@
-Nhap so lop hoc
-Nhap du lieu cua tung lop hoc: 
-
-Tong so gio hoc cua tat ca cac lop hoc la: 50
-Tong so hoc vien theo hoc cac lop hoc la: 170
-Tong doanh thu: 360
-Danh sach cac lop hoc co so sinh vien nhieu nhat la: 
-  a
-  b
-
-Danh sach cac lop hoc co so sinh vien lon hon 10 la: 
-   60
-   60
-   50
-
+14 6
+21 3
+21 0
