@@ -1,3 +1,7 @@
-14 6
-21 3
-21 0
+Nhung cuon sach cua thoa man la: 
+   a
+   c
+Sach dat nhat la: 
+   e
+Sach gia hon 100 la: 
+   e
