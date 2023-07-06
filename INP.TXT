@@ -1,7 +1,0 @@
-5
-1 a 10 NVA
-2 b 15 NVB
-3 c 12 NVA
-4 d 20 ABC
-5 e 150 LTV
-NVA
